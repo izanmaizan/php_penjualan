@@ -1,5 +1,18 @@
 # php_penjualan
 
+# Tujuan Project PHP
+## *untuk menghitung penjumlahan pada penjualan
+## menghitung diskon berdasarkan status (pelanggan atau bukan pelanggan).
+## Keterangan :
+## jika statusnya pelanggan akan mendapatkan diskon 10%.
+## jika statusnya bukan pelanggan maka tidak mendapat diskon.
+##
+## untuk menghitung ongkos berdasarkan kota tujuan
+## untuk jakarta 20000
+## untuk bandung 10000
+## untuk surabaya 30000
+
+
 ## Buat kode berikut untuk menjalankan sql
 ### -- Membuat database php_dbnilai
 ### CREATE DATABASE php_dbnilai;
